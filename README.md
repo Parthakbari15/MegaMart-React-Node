@@ -24,7 +24,7 @@ This project is designed following best practices and can be extended easily for
 ## 📸 Screenshots
 
 ### Login Page
-![Home Page](../screenshots/s1.png)
+![Home Page](./screenshots/s1.png)
 ### 🏠 Home Page
 ![Home Page](./screenshots/s2.png)
 
