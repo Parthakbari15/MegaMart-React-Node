@@ -44,12 +44,11 @@ This project is designed following best practices and can be extended easily for
 ## 🛠️ Tech Stack
 
 - **Frontend:** React + Vite  
+- **Backend:** Node + MongoDb  
 - **State Management:** Redux Toolkit  
 - **Styling:** Tailwind CSS  
 - **Routing:** React Router DOM  
 - **Language:** JavaScript (ES6+)  
 
----
 
-## 📂 Project Structure
 
