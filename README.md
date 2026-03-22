@@ -3,6 +3,8 @@
 Megamart is a modern, responsive e-commerce web application built using **React**, **Redux Toolkit**, and **Tailwind CSS**.  
 It delivers a smooth shopping experience with real-time cart updates, product quantity synchronization, and a clean, scalable UI.
 
+The application follows a component-driven architecture and leverages Redux Toolkit for efficient global state management, ensuring predictable and maintainable data flow across the app. It includes dynamic product listings, detailed product views, and an optimized cart system that updates instantly without page reloads.
+
 This project is designed following best practices and can be extended easily for real-world production use.
 
 ---
